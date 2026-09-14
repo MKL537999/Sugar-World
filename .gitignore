@@ -1,0 +1,43 @@
+# ===== Unity generated =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# ===== IDE / build tooling =====
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== Local / personal (do not publish) =====
+.claude/
+.codely-cli/
+.codely.packages/
+.codelyignore
+.com-unity-codely.json
+CODELY.md
+mem-log/
+screenshots/
+
+# ===== Crash / OS =====
+sysinfo.txt
+crashlytics-build.properties
+Thumbs.db
+.DS_Store
